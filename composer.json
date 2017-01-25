@@ -76,8 +76,12 @@
         "skin/frontend/base/default/css/"
       ],
       [
-        "var/sphinx/*",
-        "var/sphinx/"
+        "var/sphinx/stopwords/*",
+        "var/sphinx/stopwords/"
+      ],
+      [
+        "var/sphinx/synonyms/*",
+        "var/sphinx/synonyms/"
       ],
       [
         "m_test_search_speed.php",
